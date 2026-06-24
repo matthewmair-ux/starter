@@ -1,0 +1,110 @@
+<html> 
+
+<head> 
+
+<title>THE FILM NEXT DOOR GANG</title> 
+<link rel="stylesheet" type="text/css" href="film.css"> 
+</head> 
+
+<body> 
+
+<header> 
+<h1>The Film Next Door Gang</h1>
+<img style="width:180; height:120;" src="https://a.ltrbxd.com/logos/letterboxd-logo-v-neg-rgb.svg">
+</header> 
+
+<nav>
+<br>
+<ul> 
+<li><a href=" me.html">Matthew</a></li> 
+<li><a href=" innes.html">Innes</a></li> 
+<li><a href=" adrian.html">Adrian</a></li> 
+<li><a href=" eli.html">Eli(Facing Exclusion)</a></li> 
+</ul> 
+</nav>
+
+<main>
+
+<h2 style="text-align:center;">THIS IS NOT A GROUP FOR WATCHING SOFT PORN, WE ARE A GROUP OF FRIENDS WHO FIND SEX COMEDIES MILDLY UNFUNNY BUT CONTINUE TO WATCH THEM.</h2>
+
+<div style="display:inline-block; width:45%; margin-top:20px; margin-right:15px; vertical-align:top;">  
+	<h2>Previous Screening - Boogie Nights</h2>  
+	<img style="width:200px; height:275px;" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Boogie_Nights_poster.png"> 
+	<h2><u>Info</u></h2>  
+	<h3>Release Date: 15th October, 1997</h3>  
+	<h3>Director: Paul Thomas Anderson</h3>  
+	<h3>Main Cast: Mark Wahlberg</h3>  
+	<h3>Genres: Rom-Com, Sex Comedy</h3>  
+	<h3>Date of Group Watch: Friday 28th November</h3>  
+	<h4>Runtime: 2hr 33mins</h4>  
+</div>  
+
+<div style="display:inline-block; width:48%; margin-top:20px; margin-right:15px; vertical-align:top;">  
+	<h2>Next Screening - American Pie</h2>  
+	<img style="width:200px; height:275px;" src="https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/07/0125781_poster_w780.jpg?q=50&fit=contain&w=480&dpr=1.5">  
+	<h2><u>Info</u></h2>  
+	<h3>Release Date: July 9th 1999</h3>  
+	<h3>Director: Paul Weitz</h3>  
+	<h3>Main Cast: Jason Biggs, Seann William Scott, Eddie Kaye Thomas</h3>  
+	<h3>Genres: Sex Comedy, Romance</h3>  
+	<h3>Date of Expected Group Watch: Matthew didn't make the plan so never</h3>  
+	<h4>Runtime: 1hr 35mins</h4>  
+</div> 
+
+<div class="statistics-dashboard">
+	<h2>Statistics Dashboard:</h2>
+</div>
+
+<section id="stats-dashboard" class="stats-dashboard">
+  <div class="card">
+    <h3>Total Films</h3>
+    <p id="total-films">8 (debatable)</p>
+  </div>
+  <div class="card">
+    <h3>Members</h3>
+    <p id="total-members">4</p>
+  </div>
+  <div class="card">
+    <h3>Gross Hours Watched</h3>
+    <p id="avg-rating">46 Hours 13 Minutes</p>
+  </div>
+  <div class="card">
+    <h3>Most Watched Category</h3>
+    <p id="top-film">Sex Comedy</p>
+  </div>
+  <div class="card">
+	<h3>Average Rating</h3>
+	<p id="avg-rating">4.4 Stars</p>
+  </div>
+</section>
+
+<div>
+	<h2>Most recent flick of the gang</h2>
+	<img alt="Nothing (heartbreak)" style="width:200px; height:170px;">
+</div>
+
+<div class="watch-history">
+	<h2>Watch History: Average Rating</h2>
+	<p style="font-size:18px;">The Girl Next Door: <span style="color:#ffd700;">★★★★☆</span> (4.2/5)</p>
+	<p style="font-size:18px;">Love and Other Drugs: <span style="color:#ffd700;">★★★★☆</span> (4.25/5)</p>
+	<p style="font-size:18px;">Superbad: <span style="color:#ffd700;">★★★☆☆</span> (3.1/5)</p>
+	<p style="font-size:18px;">Aftersun: <span style="color:#ffd700;">★★★½☆</span> (3.5/5)</p>
+	<p style="font-size:18px;">Ballad of a Small Player: <span style="color:#ffd700;">★★½☆☆</span> (2.8/5)</p>
+	<p style="font-size:18px;">Challengers: <span style="color:#ffd700;">★★★★☆</span> (4/5)</p>
+	<p style="font-size:18px;">Black Dynamite: <span style="color:#ffd700;">★★★★½</span> (4.75/5)</p>
+	<p style="font-size:18px;">Boogie Nights: <span style="color:#ffd700;">★★★★★</span>(5/5)</p>
+</div>
+
+</main> 
+</body> 
+<footer> 
+<h4>If you wish to join the initation process is as follows: <br>
+	<li>Watch "The Girl Next Door"(2004)</li>
+	<li>Watch "Boogie Nights"(1997)</li>
+	<li>Talk to Matthew and be approved by the majority of the existing gang (excluding Eli)</li>	
+</h4>
+
+<p>This was made by Matthew, the most dedicated member</p> 
+
+</footer> 
+</html> 
