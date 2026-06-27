@@ -8,3 +8,5 @@
 
 
 THIS IS A VERY SCRATCH PROJECT AND MOST LIKELY UNFINISHED
+
+Ongoing: Have started to follow a roadmap by jwasham
