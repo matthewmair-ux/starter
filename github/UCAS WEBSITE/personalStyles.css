@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+height: 100%;
+margin: 0;
+min-height: 100vh;
+background:url("images/personalWebBack.jpeg") no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.site-footer {
+  padding: 1.5rem 0;
+  text-align: center;
+}
+
+/*NAV*/
+nav {
+	height: 60px;
+	display: block;
+}
+
+nav ul {
+	list-style-type:none;
+}
+
+nav ul li {
+	float:left;
+	width: 120px;
+	text-align: center;
+}
+
+nav ul li a {
+	display: block; padding: 10px; color: white;
+}
+
+nav ul li a:hover {
+	background-color:#a5a9b0;
+	color: #111112;
+}
+
+/*BODY TEXT HOLDER*/
+.container {
+  width: 85%;
+  background: transparent;
+  border: 2px solid #808080;
+  display: block;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+/*TEXT*/
+a,p {
+  color:#808080;
+}
