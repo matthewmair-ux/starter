@@ -1,0 +1,10 @@
+/*
+.getElementById
+.querySelector
+.querySelectorAll
+IntersectionObserver
+isIntersecting
+.onClick
+.onMouseOver
+.onMouseOut
+*/

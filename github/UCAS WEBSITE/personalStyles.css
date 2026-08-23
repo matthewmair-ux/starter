@@ -1,4 +1,4 @@
-/*GENERAL / BODY*/
+/*GENERAL / BODY / PAGE SPECIFICS*/
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 
 * {
@@ -22,6 +22,42 @@ background-size: cover;
   text-align: center;
 }
 
+.skillsPage h1, .skillsPage p, .skillsPage a {
+  color: black;
+}
+
+body.skillsPage {
+  background-image: url("images/skillsBackground.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+body.skillsPage.dark {
+  background-image: url("images/darkMode.jpg");
+}
+
+body.dark {
+  color: white;
+  background: url("images/darkMode.jpg") no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+body.dark a, body.dark p, body.dark h1 {
+  color: white;
+}
+
+body.dark nav ul li a {
+  color: white;
+  background-color: hsl(240, 34%, 18%);
+}
+
+body.dark nav ul li a:hover {
+  background-color:rgb(74, 115, 155);
+  opacity: 0.75;
+  color: white;
+}
 
 /*NAV*/
 nav {
@@ -63,6 +99,12 @@ nav ul li a:hover {
 
 
 /*LAYOUT / CONTAINERS*/
+
+.parentButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .container {
   width: 70%;
   background: transparent;
@@ -88,6 +130,9 @@ h1 {
   font-size: 2.2rem;
 }
 
+h2 {
+  text-align: center;
+}
 
 /*ANIMATIONS*/
 
